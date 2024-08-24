@@ -1,4 +1,4 @@
-# Mood Lift Cafe
+# JavaBean Cafe
 
 *A Cafe Management System is a windows form application developed in Java programming language.This win application is perfect for a cafe or small coffee shop owners where they are in need of an application to run and simply ease out their day to day managerial task.*
 
